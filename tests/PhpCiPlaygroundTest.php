@@ -22,7 +22,7 @@
  * OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-class ContextAwareTest extends PHPUnit_Framework_TestCase
+class PhpCiPlaygroundTest extends PHPUnit_Framework_TestCase
 {
     public function testGetFoo()
     {
