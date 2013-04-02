@@ -25,7 +25,10 @@
 /**
  * PhpCiPlayground
  * 
- * TODO
+ * Dummy class to be used as subject of code analysis, syntax check, 
+ * API doc generation, etc.
+ * 
+ * Doesn't need a namespace.
  * 
  * @author  Johannes Schmidt <joschmidt@users.sourceforge.net>
  * @license MIT License <http://opensource.org/licenses/mit-license.php>
