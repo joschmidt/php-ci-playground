@@ -1,7 +1,7 @@
 # The PHP Continuous Integration with Jenkins playground
 
-Stumbled upon http://jenkins-php.org/ and now looking for a test project 
-to do a quickstart?
+Curious about http://jenkins-php.org/ and now looking for a test project 
+to do a real quickstart?
 
 1. Follow the instructions on http://jenkins-php.org/
 2. Install the Jenkins git plugin
